@@ -1,2 +1,1 @@
-# GDSC-Cekilis-Araci
- 
+# GDSCCekilis
